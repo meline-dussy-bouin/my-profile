@@ -1,0 +1,56 @@
+body{
+	background-color: #F3D7A0;
+	width: 700px;
+	margin: 10px auto;
+ }
+h2{
+	color: whitesmoke;
+	font-size: 24PX;
+
+}
+h1{
+	color: whitesmoke;
+	font-family: Helvetica;
+	font-weight: 90px;
+	font-size: 40px;
+}
+a{
+	color: black;
+}
+a:hover {
+
+	color: rgba(162, 109, 19, 0.9);
+}
+
+
+p{
+	text-justify: center;
+}
+#Meline{
+	border-radius: 90%;
+
+}
+/* Custom design with class */
+.list-inline li{
+	display: inline;
+	padding: 10px;
+	font-size: 50px;
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+
+.card-gray{
+	background-color: #757169 ;
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.9);
+	border-radius: 4px;
+	text-align: center;
+}
+.img-circle{
+	border-radius: 50%;
+}
